@@ -86,11 +86,9 @@ trouve-ton-artisan/
 
 👩‍🎓 Réalisé par 
 
-Kathleen Ségura 
+Kathleen (LadyKathy)
 
  Formation développeur web 
-
- 📍 Meythet, Auvergne-Rhône-Alpes 
 
  📅 Octobre 2025 
 
